@@ -2,5 +2,5 @@ package ex;
 
 public class Main
 {
-	System.out.println("hell");
+	//tao lao bi dao
 }
